@@ -47,7 +47,7 @@ You may be required to install Command Line Tools, but Homebrew can install it f
 
 Using the command line is important if you're a developer. The Terminal app in macOS is good.
 
-![](https://i.imgflip.com/4tvuhv.jpg)
+<p align="center"><img src="https://i.imgflip.com/4tvuhv.jpg" width=300 ></p>
 
 But it can be better!
 
