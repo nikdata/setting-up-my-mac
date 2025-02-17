@@ -16,21 +16,21 @@ In addition to those, I also use quite a few handy applications that help make m
 
 In this brief guide, I'll go over the basic applications I use:
 
-- Setting up Homebrew
-- Improving Terminal & Configuring
-- Setting up git
-- Configuring GitHub with SSH key
-- Setting up Python
-- Setting up R
-- Key Applications
-  - PyCharm
-  - VSCode
-  - RStudio
-  - Orbstack
-- Handy Applications
-  - Itsycal
-  - Raycast
-  - Maccy
+- [Setting up Homebrew](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#homebrew)
+- [Improving Terminal & Configuring](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#make-terminal-better)
+- [Setting up git](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#git)
+- [Configuring GitHub with SSH key](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#github--ssh-key
+- [Setting up Python](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#python)
+- [Setting up R](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#r)
+- [Key Applications](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#key-applications)
+  - [PyCharm](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#pycharm)
+  - [VSCode](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#vscode)
+  - [RStudio](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#rstudio)
+  - [Orbstack](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#orbstack)
+- [Handy Applications](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#handy-applications)
+  - [Itsycal](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#itsycal)
+  - [Raycast](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#raycast)
+  - [Maccy](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#maccy)
 
 ### Homebrew
 
@@ -173,15 +173,23 @@ Don't bother with mamba, conda, etc. Micromamba is small, efficient, and fast.
 
 Always install R from [CRAN's website](https://cran.r-project.org).
 
-### PyCharm
+### Handy Applications
+
+#### PyCharm
 
 Download & install PyCharm [here](https://www.jetbrains.com/pycharm/).
 
-### VSCode
+#### VSCode
 
 Download from [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-### Docker & Orbstack
+#### RStudio
+
+I know that [Positron](https://positron.posit.co) is the new IDE that Posit is coming out with. It's still not ready for full production use (as of 17 Feb 2025). Almost there!
+
+For now, I still use [RStudio](https://posit.co/download/rstudio-desktop/).
+
+#### Docker & Orbstack
 
 [Orbstack](https://orbstack.dev) is a better version of Docker Desktop. It's more efficient and faster. And if you're on a laptop, Orbstack is just the right tool to use.
 
