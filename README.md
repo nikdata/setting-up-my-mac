@@ -19,7 +19,7 @@ In this brief guide, I'll go over the basic applications I use:
 - [Setting up Homebrew](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#homebrew)
 - [Improving Terminal & Configuring](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#make-terminal-better)
 - [Setting up git](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#git)
-- [Configuring GitHub with SSH key](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#github--ssh-key
+- [Configuring GitHub with SSH key](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#github--ssh-key)
 - [Setting up Python](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#python)
 - [Setting up R](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#r)
 - [Key Applications](https://github.com/nikdata/setting-up-my-mac?tab=readme-ov-file#key-applications)
@@ -173,7 +173,7 @@ Don't bother with mamba, conda, etc. Micromamba is small, efficient, and fast.
 
 Always install R from [CRAN's website](https://cran.r-project.org).
 
-### Handy Applications
+### Key Applications
 
 #### PyCharm
 
